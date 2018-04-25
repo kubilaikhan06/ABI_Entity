@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{660267B4-427B-43EA-8614-53D41C155467}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProjABI</RootNamespace>
+    <AssemblyName>ProjABI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Client.cs">
+      <DependentUpon>ProJABI.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Contact.cs">
+      <DependentUpon>ProJABI.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Donnees.cs" />
+    <Compile Include="frmClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClient.Designer.cs">
+      <DependentUpon>frmClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmContact.Designer.cs">
+      <DependentUpon>frmContact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDocu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDocu.Designer.cs">
+      <DependentUpon>frmDocu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDspCli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDspCli.Designer.cs">
+      <DependentUpon>frmDspCli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDspCont1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDspCont1.Designer.cs">
+      <DependentUpon>frmDspCont1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDspDoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDspDoc.Designer.cs">
+      <DependentUpon>frmDspDoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrdCli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGrdCli.Designer.cs">
+      <DependentUpon>frmGrdCli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLog.Designer.cs">
+      <DependentUpon>frmLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMdiParent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMdiParent.Designer.cs">
+      <DependentUpon>frmMdiParent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewCli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewCli.Designer.cs">
+      <DependentUpon>frmNewCli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewCont1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewCont1.Designer.cs">
+      <DependentUpon>frmNewCont1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewDoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewDoc.Designer.cs">
+      <DependentUpon>frmNewDoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpdCli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdCli.Designer.cs">
+      <DependentUpon>frmUpdCli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUpdCont1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUpdCont1.Designer.cs">
+      <DependentUpon>FrmUpdCont1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpdDoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdDoc.Designer.cs">
+      <DependentUpon>frmUpdDoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MClient.cs" />
+    <Compile Include="MContact.cs" />
+    <Compile Include="MDocument.cs" />
+    <Compile Include="Outils.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="ProJABI.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProJABI.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ProJABI.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProJABI.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ProJABI.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProJABI.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="ProjetABIDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProjetABIDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmClient.resx">
+      <DependentUpon>frmClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmContact.resx">
+      <DependentUpon>frmContact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDocu.resx">
+      <DependentUpon>frmDocu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDspCli.resx">
+      <DependentUpon>frmDspCli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDspCont1.resx">
+      <DependentUpon>frmDspCont1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDspDoc.resx">
+      <DependentUpon>frmDspDoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGrdCli.resx">
+      <DependentUpon>frmGrdCli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLog.resx">
+      <DependentUpon>frmLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMdiParent.resx">
+      <DependentUpon>frmMdiParent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewCli.resx">
+      <DependentUpon>frmNewCli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewCont1.resx">
+      <DependentUpon>frmNewCont1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewDoc.resx">
+      <DependentUpon>frmNewDoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpdCli.resx">
+      <DependentUpon>frmUpdCli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUpdCont1.resx">
+      <DependentUpon>FrmUpdCont1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpdDoc.resx">
+      <DependentUpon>frmUpdDoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EntityDeploy Include="ProJABI.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ProJABI.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="packages.config" />
+    <None Include="ProJABI.edmx.diagram">
+      <DependentUpon>ProJABI.edmx</DependentUpon>
+    </None>
+    <None Include="ProjetABIDataSet.xsc">
+      <DependentUpon>ProjetABIDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ProjetABIDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProjetABIDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ProjetABIDataSet.xss">
+      <DependentUpon>ProjetABIDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ProJABI.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>ProJABI.Context.cs</LastGenOutput>
+      <DependentUpon>ProJABI.edmx</DependentUpon>
+    </Content>
+    <Content Include="ProJABI.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ProJABI.edmx</DependentUpon>
+      <LastGenOutput>ProJABI.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

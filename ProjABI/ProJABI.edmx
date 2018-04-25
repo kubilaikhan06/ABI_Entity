@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="ProjetABIModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Client">
+          <Key>
+            <PropertyRef Name="IdentifiantClient" />
+          </Key>
+          <Property Name="IdentifiantClient" Type="int" Nullable="false" />
+          <Property Name="RaisonSociale" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Type" Type="char" MaxLength="10" Nullable="false" />
+          <Property Name="Activite" Type="nvarchar" MaxLength="50" />
+          <Property Name="NumeroActivite" Type="int" Nullable="false" />
+          <Property Name="Adresse" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="TelephoneClient" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="EmailClient" Type="nvarchar" MaxLength="50" />
+          <Property Name="Nature" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="ChiffreAffaire" Type="decimal" Precision="18" Scale="0" />
+          <Property Name="Effectif" Type="int" />
+          <Property Name="Commentaires" Type="text" />
+        </EntityType>
+        <EntityType Name="Contact">
+          <Key>
+            <PropertyRef Name="IdentifiantContact" />
+          </Key>
+          <Property Name="IdentifiantContact" Type="int" Nullable="false" />
+          <Property Name="NomContact" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="PrenomContact" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Fonction" Type="nvarchar" MaxLength="50" />
+          <Property Name="TelephoneContact" Type="nchar" MaxLength="15" />
+          <Property Name="EmailContact" Type="nvarchar" MaxLength="50" />
+          <Property Name="IdClient" Type="int" Nullable="false" />
+          <Property Name="Duree" Type="int" />
+        </EntityType>
+        <Association Name="FK_Contact_Client">
+          <End Role="Client" Type="Self.Client" Multiplicity="1" />
+          <End Role="Contact" Type="Self.Contact" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Client">
+              <PropertyRef Name="IdentifiantClient" />
+            </Principal>
+            <Dependent Role="Contact">
+              <PropertyRef Name="IdClient" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="ProjetABIModelStoreContainer">
+          <EntitySet Name="Client" EntityType="Self.Client" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Contact" EntityType="Self.Contact" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Contact_Client" Association="Self.FK_Contact_Client">
+            <End Role="Client" EntitySet="Client" />
+            <End Role="Contact" EntitySet="Contact" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="ProjetABIModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="ProjetABIEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Client" EntityType="ProjetABIModel.Client" />
+          <EntitySet Name="Contact" EntityType="ProjetABIModel.Contact" />
+          <AssociationSet Name="FK_Contact_Client" Association="ProjetABIModel.FK_Contact_Client">
+            <End Role="Client" EntitySet="Client" />
+            <End Role="Contact" EntitySet="Contact" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Client">
+          <Key>
+            <PropertyRef Name="IdentifiantClient" />
+          </Key>
+          <Property Name="IdentifiantClient" Type="Int32" Nullable="false" />
+          <Property Name="RaisonSociale" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Type" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="false" />
+          <Property Name="Activite" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="NumeroActivite" Type="Int32" Nullable="false" />
+          <Property Name="Adresse" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="TelephoneClient" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="EmailClient" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Nature" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="ChiffreAffaire" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="Effectif" Type="Int32" />
+          <Property Name="Commentaires" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Contact" Relationship="ProjetABIModel.FK_Contact_Client" FromRole="Client" ToRole="Contact" />
+        </EntityType>
+        <EntityType Name="Contact">
+          <Key>
+            <PropertyRef Name="IdentifiantContact" />
+          </Key>
+          <Property Name="IdentifiantContact" Type="Int32" Nullable="false" />
+          <Property Name="NomContact" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="PrenomContact" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Fonction" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="TelephoneContact" Type="String" MaxLength="15" FixedLength="true" Unicode="true" />
+          <Property Name="EmailContact" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="IdClient" Type="Int32" Nullable="false" />
+          <Property Name="Duree" Type="Int32" />
+          <NavigationProperty Name="Client" Relationship="ProjetABIModel.FK_Contact_Client" FromRole="Contact" ToRole="Client" />
+        </EntityType>
+        <Association Name="FK_Contact_Client">
+          <End Type="ProjetABIModel.Client" Role="Client" Multiplicity="1" />
+          <End Type="ProjetABIModel.Contact" Role="Contact" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Client">
+              <PropertyRef Name="IdentifiantClient" />
+            </Principal>
+            <Dependent Role="Contact">
+              <PropertyRef Name="IdClient" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="ProjetABIModelStoreContainer" CdmEntityContainer="ProjetABIEntities">
+          <EntitySetMapping Name="Client">
+            <EntityTypeMapping TypeName="ProjetABIModel.Client">
+              <MappingFragment StoreEntitySet="Client">
+                <ScalarProperty Name="Commentaires" ColumnName="Commentaires" />
+                <ScalarProperty Name="Effectif" ColumnName="Effectif" />
+                <ScalarProperty Name="ChiffreAffaire" ColumnName="ChiffreAffaire" />
+                <ScalarProperty Name="Nature" ColumnName="Nature" />
+                <ScalarProperty Name="EmailClient" ColumnName="EmailClient" />
+                <ScalarProperty Name="TelephoneClient" ColumnName="TelephoneClient" />
+                <ScalarProperty Name="Adresse" ColumnName="Adresse" />
+                <ScalarProperty Name="NumeroActivite" ColumnName="NumeroActivite" />
+                <ScalarProperty Name="Activite" ColumnName="Activite" />
+                <ScalarProperty Name="Type" ColumnName="Type" />
+                <ScalarProperty Name="RaisonSociale" ColumnName="RaisonSociale" />
+                <ScalarProperty Name="IdentifiantClient" ColumnName="IdentifiantClient" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Contact">
+            <EntityTypeMapping TypeName="ProjetABIModel.Contact">
+              <MappingFragment StoreEntitySet="Contact">
+                <ScalarProperty Name="Duree" ColumnName="Duree" />
+                <ScalarProperty Name="IdClient" ColumnName="IdClient" />
+                <ScalarProperty Name="EmailContact" ColumnName="EmailContact" />
+                <ScalarProperty Name="TelephoneContact" ColumnName="TelephoneContact" />
+                <ScalarProperty Name="Fonction" ColumnName="Fonction" />
+                <ScalarProperty Name="PrenomContact" ColumnName="PrenomContact" />
+                <ScalarProperty Name="NomContact" ColumnName="NomContact" />
+                <ScalarProperty Name="IdentifiantContact" ColumnName="IdentifiantContact" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Aucun" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

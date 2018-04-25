@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ProjetABIModelStoreContainer" CdmEntityContainer="ProjetABIEntities">
+    <EntitySetMapping Name="Client">
+      <EntityTypeMapping TypeName="ProjetABIModel.Client">
+        <MappingFragment StoreEntitySet="Client">
+          <ScalarProperty Name="Commentaires" ColumnName="Commentaires" />
+          <ScalarProperty Name="Effectif" ColumnName="Effectif" />
+          <ScalarProperty Name="ChiffreAffaire" ColumnName="ChiffreAffaire" />
+          <ScalarProperty Name="Nature" ColumnName="Nature" />
+          <ScalarProperty Name="EmailClient" ColumnName="EmailClient" />
+          <ScalarProperty Name="TelephoneClient" ColumnName="TelephoneClient" />
+          <ScalarProperty Name="Adresse" ColumnName="Adresse" />
+          <ScalarProperty Name="NumeroActivite" ColumnName="NumeroActivite" />
+          <ScalarProperty Name="Activite" ColumnName="Activite" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="RaisonSociale" ColumnName="RaisonSociale" />
+          <ScalarProperty Name="IdentifiantClient" ColumnName="IdentifiantClient" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Contact">
+      <EntityTypeMapping TypeName="ProjetABIModel.Contact">
+        <MappingFragment StoreEntitySet="Contact">
+          <ScalarProperty Name="Duree" ColumnName="Duree" />
+          <ScalarProperty Name="IdClient" ColumnName="IdClient" />
+          <ScalarProperty Name="EmailContact" ColumnName="EmailContact" />
+          <ScalarProperty Name="TelephoneContact" ColumnName="TelephoneContact" />
+          <ScalarProperty Name="Fonction" ColumnName="Fonction" />
+          <ScalarProperty Name="PrenomContact" ColumnName="PrenomContact" />
+          <ScalarProperty Name="NomContact" ColumnName="NomContact" />
+          <ScalarProperty Name="IdentifiantContact" ColumnName="IdentifiantContact" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

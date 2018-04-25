@@ -1,0 +1,491 @@
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\bin\Debug\ProjABI.exe.config
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\bin\Debug\ProjABI.exe
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\bin\Debug\ProjABI.pdb
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\obj\Debug\ProjABI.csprojResolveAssemblyReference.cache
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\obj\Debug\ProjABI.frmClient.resources
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\obj\Debug\ProjABI.frmGrdCli.resources
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\obj\Debug\ProjABI.frmLog.resources
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\obj\Debug\ProjABI.Properties.Resources.resources
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\obj\Debug\ProjABI.csproj.GenerateResource.Cache
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\obj\Debug\ProjABI.csproj.CoreCompileInputs.cache
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\obj\Debug\ProjABI.exe
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\obj\Debug\ProjABI.pdb
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\obj\Debug\ProjABI.frmDspCli.resources
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\obj\Debug\ProjABI.frmUpdCli.resources
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\obj\Debug\ProjABI.frmContact.resources
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\obj\Debug\ProjABI.frmNewCli.resources
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\obj\Debug\ProjABI.frmDspCont.resources
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\obj\Debug\ProjABI.frmUpdCont.resources
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\obj\Debug\ProjABI.frmNewCont.resources
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\obj\Debug\ProjABI.frmDocu.resources
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\obj\Debug\ProjABI.frmNewDoc.resources
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\obj\Debug\ProjABI.frmUpdDoc.resources
+C:\Users\Rémi\source\repos\ProjABI\ProjABI\obj\Debug\ProjABI.frmDspDoc.resources
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\bin\Debug\ProjABI.exe.config
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\bin\Debug\ProjABI.exe
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\bin\Debug\ProjABI.pdb
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\obj\Debug\ProjABI.csprojResolveAssemblyReference.cache
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\obj\Debug\ProjABI.frmClient.resources
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\obj\Debug\ProjABI.frmContact.resources
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\obj\Debug\ProjABI.frmDocu.resources
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\obj\Debug\ProjABI.frmDspCli.resources
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\obj\Debug\ProjABI.frmDspCont.resources
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\obj\Debug\ProjABI.frmDspDoc.resources
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\obj\Debug\ProjABI.frmGrdCli.resources
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\obj\Debug\ProjABI.frmLog.resources
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\obj\Debug\ProjABI.frmNewCli.resources
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\obj\Debug\ProjABI.frmNewCont.resources
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\obj\Debug\ProjABI.frmNewDoc.resources
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\obj\Debug\ProjABI.frmUpdCli.resources
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\obj\Debug\ProjABI.frmUpdCont.resources
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\obj\Debug\ProjABI.frmUpdDoc.resources
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\obj\Debug\ProjABI.Properties.Resources.resources
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\obj\Debug\ProjABI.csproj.GenerateResource.Cache
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\obj\Debug\ProjABI.csproj.CoreCompileInputs.cache
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\obj\Debug\ProjABI.exe
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\obj\Debug\ProjABI.pdb
+C:\Users\Rémi\Desktop\ProjABI\ProjABI\obj\Debug\ProjABI.frmMdiParent.resources
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\bin\Debug\ProjABI.exe.config
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\bin\Debug\ProjABI.exe
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\bin\Debug\ProjABI.pdb
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\obj\Debug\ProjABI.csprojResolveAssemblyReference.cache
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\obj\Debug\ProjABI.frmClient.resources
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\obj\Debug\ProjABI.frmContact.resources
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\obj\Debug\ProjABI.frmDocu.resources
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\obj\Debug\ProjABI.frmDspCli.resources
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\obj\Debug\ProjABI.frmDspCont.resources
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\obj\Debug\ProjABI.frmDspDoc.resources
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\obj\Debug\ProjABI.frmGrdCli.resources
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\obj\Debug\ProjABI.frmLog.resources
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\obj\Debug\ProjABI.frmMdiParent.resources
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\obj\Debug\ProjABI.frmNewCli.resources
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\obj\Debug\ProjABI.frmNewCont.resources
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\obj\Debug\ProjABI.frmNewDoc.resources
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\obj\Debug\ProjABI.frmUpdCli.resources
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\obj\Debug\ProjABI.frmUpdCont.resources
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\obj\Debug\ProjABI.frmUpdDoc.resources
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\obj\Debug\ProjABI.Properties.Resources.resources
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\obj\Debug\ProjABI.csproj.GenerateResource.Cache
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\obj\Debug\ProjABI.csproj.CoreCompileInputs.cache
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\obj\Debug\ProjABI.exe
+C:\Users\Rémi\Desktop\CDI\programmes\winform\ProjABI\ProjABI\obj\Debug\ProjABI.pdb
+D:\CDI\Projet ABI\ProjABI\ProjABI\bin\Debug\ProjABI.exe.config
+D:\CDI\Projet ABI\ProjABI\ProjABI\bin\Debug\ProjABI.exe
+D:\CDI\Projet ABI\ProjABI\ProjABI\bin\Debug\ProjABI.pdb
+D:\CDI\Projet ABI\ProjABI\ProjABI\obj\Debug\ProjABI.csprojResolveAssemblyReference.cache
+D:\CDI\Projet ABI\ProjABI\ProjABI\obj\Debug\ProjABI.frmClient.resources
+D:\CDI\Projet ABI\ProjABI\ProjABI\obj\Debug\ProjABI.frmContact.resources
+D:\CDI\Projet ABI\ProjABI\ProjABI\obj\Debug\ProjABI.frmDocu.resources
+D:\CDI\Projet ABI\ProjABI\ProjABI\obj\Debug\ProjABI.frmDspCli.resources
+D:\CDI\Projet ABI\ProjABI\ProjABI\obj\Debug\ProjABI.frmDspCont.resources
+D:\CDI\Projet ABI\ProjABI\ProjABI\obj\Debug\ProjABI.frmDspDoc.resources
+D:\CDI\Projet ABI\ProjABI\ProjABI\obj\Debug\ProjABI.frmGrdCli.resources
+D:\CDI\Projet ABI\ProjABI\ProjABI\obj\Debug\ProjABI.frmLog.resources
+D:\CDI\Projet ABI\ProjABI\ProjABI\obj\Debug\ProjABI.frmMdiParent.resources
+D:\CDI\Projet ABI\ProjABI\ProjABI\obj\Debug\ProjABI.frmNewCli.resources
+D:\CDI\Projet ABI\ProjABI\ProjABI\obj\Debug\ProjABI.frmNewCont.resources
+D:\CDI\Projet ABI\ProjABI\ProjABI\obj\Debug\ProjABI.frmNewDoc.resources
+D:\CDI\Projet ABI\ProjABI\ProjABI\obj\Debug\ProjABI.frmUpdCli.resources
+D:\CDI\Projet ABI\ProjABI\ProjABI\obj\Debug\ProjABI.frmUpdCont.resources
+D:\CDI\Projet ABI\ProjABI\ProjABI\obj\Debug\ProjABI.frmUpdDoc.resources
+D:\CDI\Projet ABI\ProjABI\ProjABI\obj\Debug\ProjABI.Properties.Resources.resources
+D:\CDI\Projet ABI\ProjABI\ProjABI\obj\Debug\ProjABI.csproj.GenerateResource.Cache
+D:\CDI\Projet ABI\ProjABI\ProjABI\obj\Debug\ProjABI.csproj.CoreCompileInputs.cache
+D:\CDI\Projet ABI\ProjABI\ProjABI\obj\Debug\ProjABI.exe
+D:\CDI\Projet ABI\ProjABI\ProjABI\obj\Debug\ProjABI.pdb
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\bin\Debug\ProjABI.exe.config
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\bin\Debug\ProjABI.exe
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\bin\Debug\ProjABI.pdb
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.csprojResolveAssemblyReference.cache
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmClient.resources
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmContact.resources
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmDocu.resources
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmDspCli.resources
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmDspDoc.resources
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmGrdCli.resources
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmLog.resources
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmMdiParent.resources
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmNewCli.resources
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmNewDoc.resources
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmUpdCli.resources
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmUpdDoc.resources
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.Properties.Resources.resources
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.csproj.GenerateResource.Cache
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.csproj.CoreCompileInputs.cache
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.exe
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.pdb
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmNewCont1.resources
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.FrmUpdCont1.resources
+C:\Users\CDI15\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmDspCont1.resources
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\bin\Debug\ProjABI.exe.config
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\bin\Debug\ProjABI.exe
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\bin\Debug\ProjABI.pdb
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.csprojResolveAssemblyReference.cache
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmClient.resources
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmContact.resources
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmDocu.resources
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmDspCli.resources
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmDspCont1.resources
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmDspDoc.resources
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmGrdCli.resources
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmLog.resources
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmMdiParent.resources
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmNewCli.resources
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmNewCont1.resources
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmNewDoc.resources
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmUpdCli.resources
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.FrmUpdCont1.resources
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmUpdDoc.resources
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.Properties.Resources.resources
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.csproj.GenerateResource.Cache
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.csproj.CoreCompileInputs.cache
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.exe
+C:\Users\Rémi\Desktop\ProjABI-version2\ProjABI\obj\Debug\ProjABI.pdb
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\bin\Debug\ProjABI.exe.config
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\bin\Debug\ProjABI.exe
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\bin\Debug\ProjABI.pdb
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.csprojResolveAssemblyReference.cache
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmClient.resources
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmContact.resources
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmDocu.resources
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmDspCli.resources
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmDspCont1.resources
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmDspDoc.resources
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmGrdCli.resources
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmLog.resources
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmMdiParent.resources
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmNewCli.resources
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmNewCont1.resources
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmNewDoc.resources
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmUpdCli.resources
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.FrmUpdCont1.resources
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmUpdDoc.resources
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.Properties.Resources.resources
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.csproj.GenerateResource.Cache
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.csproj.CoreCompileInputs.cache
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.exe
+D:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.pdb
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\bin\Debug\ProjABI.exe.config
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\bin\Debug\ProjABI.exe
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\bin\Debug\ProjABI.pdb
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.csprojResolveAssemblyReference.cache
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmClient.resources
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmContact.resources
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmDocu.resources
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmDspCli.resources
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmDspCont1.resources
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmDspDoc.resources
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmGrdCli.resources
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmLog.resources
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmMdiParent.resources
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmNewCli.resources
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmNewCont1.resources
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmNewDoc.resources
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmUpdCli.resources
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.FrmUpdCont1.resources
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.frmUpdDoc.resources
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.Properties.Resources.resources
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.csproj.GenerateResource.Cache
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.csproj.CoreCompileInputs.cache
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.exe
+E:\CDI\Projet ABI\ProjABI-version2\ProjABI\obj\Debug\ProjABI.pdb
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\bin\Debug\ProjABI.exe.config
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\bin\Debug\ProjABI.exe
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\bin\Debug\ProjABI.pdb
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\obj\Debug\ProjABI.csprojResolveAssemblyReference.cache
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmClient.resources
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmContact.resources
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmDocu.resources
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmDspCli.resources
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmDspCont1.resources
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmDspDoc.resources
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmGrdCli.resources
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmLog.resources
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmMdiParent.resources
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmNewCli.resources
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmNewCont1.resources
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmNewDoc.resources
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmUpdCli.resources
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\obj\Debug\ProjABI.FrmUpdCont1.resources
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmUpdDoc.resources
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\obj\Debug\ProjABI.Properties.Resources.resources
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\obj\Debug\ProjABI.csproj.GenerateResource.Cache
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\obj\Debug\ProjABI.csproj.CoreCompileInputs.cache
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\obj\Debug\ProjABI.exe
+D:\CDI\Projet ABI\ProjABI-version3\ProjABI\obj\Debug\ProjABI.pdb
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\bin\Debug\ProjABI.exe.config
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\bin\Debug\ProjABI.exe
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\bin\Debug\ProjABI.pdb
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\obj\Debug\ProjABI.csprojResolveAssemblyReference.cache
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmClient.resources
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmContact.resources
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmDocu.resources
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmDspCli.resources
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmDspCont1.resources
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmDspDoc.resources
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmGrdCli.resources
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmLog.resources
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmMdiParent.resources
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmNewCli.resources
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmNewCont1.resources
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmNewDoc.resources
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmUpdCli.resources
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\obj\Debug\ProjABI.FrmUpdCont1.resources
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\obj\Debug\ProjABI.frmUpdDoc.resources
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\obj\Debug\ProjABI.Properties.Resources.resources
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\obj\Debug\ProjABI.csproj.GenerateResource.Cache
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\obj\Debug\ProjABI.csproj.CoreCompileInputs.cache
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\obj\Debug\ProjABI.exe
+C:\Users\Rémi\Desktop\ProjABI-version3\ProjABI\obj\Debug\ProjABI.pdb
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\bin\Debug\ProjABI.exe.config
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\bin\Debug\ProjABI.exe
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\bin\Debug\ProjABI.pdb
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\obj\Debug\ProjABI.csprojResolveAssemblyReference.cache
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmClient.resources
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmContact.resources
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmDocu.resources
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmDspCli.resources
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmDspCont1.resources
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmDspDoc.resources
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmGrdCli.resources
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmLog.resources
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmMdiParent.resources
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmNewCli.resources
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmNewCont1.resources
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmNewDoc.resources
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmUpdCli.resources
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\obj\Debug\ProjABI.FrmUpdCont1.resources
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmUpdDoc.resources
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\obj\Debug\ProjABI.Properties.Resources.resources
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\obj\Debug\ProjABI.csproj.GenerateResource.Cache
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\obj\Debug\ProjABI.csproj.CoreCompileInputs.cache
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\obj\Debug\ProjABI.exe
+C:\Users\Rémi\Desktop\ProjABI-version4\ProjABI\obj\Debug\ProjABI.pdb
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\bin\Debug\ProjABI.exe.config
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\bin\Debug\ProjABI.exe
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\bin\Debug\ProjABI.pdb
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\obj\Debug\ProjABI.csprojResolveAssemblyReference.cache
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmClient.resources
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmContact.resources
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmDocu.resources
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmDspCli.resources
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmDspCont1.resources
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmDspDoc.resources
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmGrdCli.resources
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmLog.resources
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmMdiParent.resources
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmNewCli.resources
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmNewCont1.resources
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmNewDoc.resources
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmUpdCli.resources
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\obj\Debug\ProjABI.FrmUpdCont1.resources
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\obj\Debug\ProjABI.frmUpdDoc.resources
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\obj\Debug\ProjABI.Properties.Resources.resources
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\obj\Debug\ProjABI.csproj.GenerateResource.Cache
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\obj\Debug\ProjABI.csproj.CoreCompileInputs.cache
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\obj\Debug\ProjABI.exe
+D:\CDI\Projet ABI\ProjABI-version4\ProjABI\obj\Debug\ProjABI.pdb
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\bin\Debug\ProjABI.exe.config
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\bin\Debug\ProjABI.exe
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\bin\Debug\ProjABI.pdb
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\bin\Debug\EntityFramework.dll
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\bin\Debug\EntityFramework.xml
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\obj\Debug\ProjABI.csprojResolveAssemblyReference.cache
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\obj\Debug\ProjABI.frmClient.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\obj\Debug\ProjABI.frmContact.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\obj\Debug\ProjABI.frmDocu.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\obj\Debug\ProjABI.frmDspCli.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\obj\Debug\ProjABI.frmDspCont1.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\obj\Debug\ProjABI.frmDspDoc.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\obj\Debug\ProjABI.frmGrdCli.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\obj\Debug\ProjABI.frmLog.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\obj\Debug\ProjABI.frmMdiParent.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\obj\Debug\ProjABI.frmNewCli.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\obj\Debug\ProjABI.frmNewCont1.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\obj\Debug\ProjABI.frmNewDoc.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\obj\Debug\ProjABI.frmUpdCli.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\obj\Debug\ProjABI.FrmUpdCont1.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\obj\Debug\ProjABI.frmUpdDoc.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\obj\Debug\ProjABI.Properties.Resources.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\obj\Debug\ProjABI.csproj.GenerateResource.Cache
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\obj\Debug\ProjABI.csproj.CoreCompileInputs.cache
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\obj\Debug\ProjABI.exe
+C:\Users\CDI15\Desktop\ProjABI-versionEntity\ProjABI\obj\Debug\ProjABI.pdb
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\bin\Debug\ProjABI.exe.config
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\bin\Debug\ProjABI.exe
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\bin\Debug\ProjABI.pdb
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\bin\Debug\EntityFramework.dll
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\bin\Debug\EntityFramework.SqlServer.dll
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\bin\Debug\EntityFramework.xml
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\bin\Debug\EntityFramework.SqlServer.xml
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\bin\Debug\fr\EntityFramework.resources.dll
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\obj\Debug\ProjABI.csprojResolveAssemblyReference.cache
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\obj\Debug\ProjABI.frmClient.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\obj\Debug\ProjABI.frmContact.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\obj\Debug\ProjABI.frmDocu.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\obj\Debug\ProjABI.frmDspCli.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\obj\Debug\ProjABI.frmDspCont1.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\obj\Debug\ProjABI.frmDspDoc.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\obj\Debug\ProjABI.frmGrdCli.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\obj\Debug\ProjABI.frmLog.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\obj\Debug\ProjABI.frmMdiParent.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\obj\Debug\ProjABI.frmNewCli.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\obj\Debug\ProjABI.frmNewCont1.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\obj\Debug\ProjABI.frmNewDoc.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\obj\Debug\ProjABI.frmUpdCli.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\obj\Debug\ProjABI.FrmUpdCont1.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\obj\Debug\ProjABI.frmUpdDoc.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\obj\Debug\ProjABI.Properties.Resources.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\obj\Debug\ProjABI.csproj.GenerateResource.Cache
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\obj\Debug\ProjABI.csproj.CoreCompileInputs.cache
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\obj\Debug\ProjABI.exe
+D:\CDI\Projet ABI\ProjABI-versionEntity1\ProjABI\obj\Debug\ProjABI.pdb
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\bin\Debug\ProjABI.exe.config
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\bin\Debug\ProjABI.exe
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\bin\Debug\ProjABI.pdb
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\bin\Debug\EntityFramework.dll
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\bin\Debug\EntityFramework.xml
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\obj\Debug\ProjABI.csprojResolveAssemblyReference.cache
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\obj\Debug\ProjABI.frmClient.resources
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\obj\Debug\ProjABI.frmContact.resources
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\obj\Debug\ProjABI.frmDocu.resources
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\obj\Debug\ProjABI.frmDspCli.resources
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\obj\Debug\ProjABI.frmDspCont1.resources
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\obj\Debug\ProjABI.frmDspDoc.resources
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\obj\Debug\ProjABI.frmGrdCli.resources
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\obj\Debug\ProjABI.frmLog.resources
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\obj\Debug\ProjABI.frmMdiParent.resources
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\obj\Debug\ProjABI.frmNewCli.resources
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\obj\Debug\ProjABI.frmNewCont1.resources
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\obj\Debug\ProjABI.frmNewDoc.resources
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\obj\Debug\ProjABI.frmUpdCli.resources
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\obj\Debug\ProjABI.FrmUpdCont1.resources
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\obj\Debug\ProjABI.frmUpdDoc.resources
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\obj\Debug\ProjABI.Properties.Resources.resources
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\obj\Debug\ProjABI.csproj.GenerateResource.Cache
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\obj\Debug\ProjABI.csproj.CoreCompileInputs.cache
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\obj\Debug\ProjABI.exe
+C:\Users\Rémi\Desktop\ProjABI-versionEntity2_bureau\ProjABI\obj\Debug\ProjABI.pdb
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\bin\Debug\ProjABI.exe.config
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\bin\Debug\ProjABI.exe
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\bin\Debug\ProjABI.pdb
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\bin\Debug\EntityFramework.dll
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\bin\Debug\EntityFramework.xml
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\obj\Debug\ProjABI.csprojResolveAssemblyReference.cache
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\obj\Debug\ProjABI.frmClient.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\obj\Debug\ProjABI.frmContact.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\obj\Debug\ProjABI.frmDocu.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\obj\Debug\ProjABI.frmDspCli.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\obj\Debug\ProjABI.frmDspCont1.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\obj\Debug\ProjABI.frmDspDoc.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\obj\Debug\ProjABI.frmGrdCli.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\obj\Debug\ProjABI.frmLog.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\obj\Debug\ProjABI.frmMdiParent.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\obj\Debug\ProjABI.frmNewCli.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\obj\Debug\ProjABI.frmNewCont1.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\obj\Debug\ProjABI.frmNewDoc.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\obj\Debug\ProjABI.frmUpdCli.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\obj\Debug\ProjABI.FrmUpdCont1.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\obj\Debug\ProjABI.frmUpdDoc.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\obj\Debug\ProjABI.Properties.Resources.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\obj\Debug\ProjABI.csproj.GenerateResource.Cache
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\obj\Debug\ProjABI.csproj.CoreCompileInputs.cache
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\obj\Debug\ProjABI.exe
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home2\ProjABI\obj\Debug\ProjABI.pdb
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\bin\Debug\ProjABI.exe.config
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\bin\Debug\ProjABI.exe
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\bin\Debug\ProjABI.pdb
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\bin\Debug\EntityFramework.dll
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\bin\Debug\EntityFramework.xml
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.csprojResolveAssemblyReference.cache
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmClient.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmContact.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmDocu.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmDspCli.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmDspCont1.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmDspDoc.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmGrdCli.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmLog.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmMdiParent.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmNewCli.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmNewCont1.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmNewDoc.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmUpdCli.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.FrmUpdCont1.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmUpdDoc.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.Properties.Resources.resources
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.csproj.GenerateResource.Cache
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.csproj.CoreCompileInputs.cache
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.exe
+C:\Users\CDI15\Desktop\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.pdb
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\bin\Debug\ProjABI.exe.config
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\bin\Debug\ProjABI.exe
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\bin\Debug\ProjABI.pdb
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\bin\Debug\EntityFramework.dll
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\bin\Debug\EntityFramework.SqlServer.dll
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\bin\Debug\EntityFramework.xml
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\bin\Debug\EntityFramework.SqlServer.xml
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\bin\Debug\fr\EntityFramework.resources.dll
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.csprojResolveAssemblyReference.cache
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmClient.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmContact.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmDocu.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmDspCli.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmDspCont1.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmDspDoc.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmGrdCli.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmLog.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmMdiParent.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmNewCli.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmNewCont1.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmNewDoc.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmUpdCli.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.FrmUpdCont1.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.frmUpdDoc.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.Properties.Resources.resources
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.csproj.GenerateResource.Cache
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.csproj.CoreCompileInputs.cache
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.exe
+D:\CDI\Projet ABI\ProjABI-versionEntity2_home3\ProjABI\obj\Debug\ProjABI.pdb
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\bin\Debug\ProjABI.exe.config
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\bin\Debug\ProjABI.exe
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\bin\Debug\ProjABI.pdb
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\bin\Debug\EntityFramework.dll
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\bin\Debug\EntityFramework.xml
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\obj\Debug\ProjABI.csprojResolveAssemblyReference.cache
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\obj\Debug\ProjABI.frmClient.resources
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\obj\Debug\ProjABI.frmContact.resources
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\obj\Debug\ProjABI.frmDocu.resources
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\obj\Debug\ProjABI.frmDspCli.resources
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\obj\Debug\ProjABI.frmDspCont1.resources
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\obj\Debug\ProjABI.frmDspDoc.resources
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\obj\Debug\ProjABI.frmGrdCli.resources
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\obj\Debug\ProjABI.frmLog.resources
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\obj\Debug\ProjABI.frmMdiParent.resources
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\obj\Debug\ProjABI.frmNewCli.resources
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\obj\Debug\ProjABI.frmNewCont1.resources
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\obj\Debug\ProjABI.frmNewDoc.resources
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\obj\Debug\ProjABI.frmUpdCli.resources
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\obj\Debug\ProjABI.FrmUpdCont1.resources
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\obj\Debug\ProjABI.frmUpdDoc.resources
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\obj\Debug\ProjABI.Properties.Resources.resources
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\obj\Debug\ProjABI.csproj.GenerateResource.cache
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\obj\Debug\ProjABI.csproj.CoreCompileInputs.cache
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\obj\Debug\ProjABI.csproj.CopyComplete
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\obj\Debug\ProjABI.exe
+C:\Users\CDI15\Desktop\CDI\Projet ABI\ProjABI-versionEntity2_OK\ProjABI\obj\Debug\ProjABI.pdb

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProjetABIModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="ProjetABIEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Client" EntityType="ProjetABIModel.Client" />
+    <EntitySet Name="Contact" EntityType="ProjetABIModel.Contact" />
+    <AssociationSet Name="FK_Contact_Client" Association="ProjetABIModel.FK_Contact_Client">
+      <End Role="Client" EntitySet="Client" />
+      <End Role="Contact" EntitySet="Contact" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Client">
+    <Key>
+      <PropertyRef Name="IdentifiantClient" />
+    </Key>
+    <Property Name="IdentifiantClient" Type="Int32" Nullable="false" />
+    <Property Name="RaisonSociale" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Type" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="Activite" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NumeroActivite" Type="Int32" Nullable="false" />
+    <Property Name="Adresse" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TelephoneClient" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="EmailClient" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Nature" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ChiffreAffaire" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="Effectif" Type="Int32" />
+    <Property Name="Commentaires" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Contact" Relationship="ProjetABIModel.FK_Contact_Client" FromRole="Client" ToRole="Contact" />
+  </EntityType>
+  <EntityType Name="Contact">
+    <Key>
+      <PropertyRef Name="IdentifiantContact" />
+    </Key>
+    <Property Name="IdentifiantContact" Type="Int32" Nullable="false" />
+    <Property Name="NomContact" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PrenomContact" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Fonction" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TelephoneContact" Type="String" MaxLength="15" FixedLength="true" Unicode="true" />
+    <Property Name="EmailContact" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="IdClient" Type="Int32" Nullable="false" />
+    <Property Name="Duree" Type="Int32" />
+    <NavigationProperty Name="Client" Relationship="ProjetABIModel.FK_Contact_Client" FromRole="Contact" ToRole="Client" />
+  </EntityType>
+  <Association Name="FK_Contact_Client">
+    <End Type="ProjetABIModel.Client" Role="Client" Multiplicity="1" />
+    <End Type="ProjetABIModel.Contact" Role="Contact" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Client">
+        <PropertyRef Name="IdentifiantClient" />
+      </Principal>
+      <Dependent Role="Contact">
+        <PropertyRef Name="IdClient" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
